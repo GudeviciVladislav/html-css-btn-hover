@@ -15,5 +15,6 @@ a {
   width: 200px;
   height: 100px;
   margin: 20px 30px;
-
 }
+#login:hover{color: white;}
+#registration:hover{color: white;}
